@@ -1,1 +1,3 @@
-DY Chheavty academic portfolio — updated 2026. Upload index.html, profile.png and research-publication.pdf to the ROOT of the GitHub repository dychheavtyy168-bit.github.io. Do not upload the ZIP itself. The research PDF is an extract (printed pages 31–38) from STI Focus Vol. 5 No. 1 (2026).
+DY Chheavty Academic Portfolio
+Upload all files in this folder to the ROOT of your GitHub Pages repository.
+The certificate buttons point to certificate-nisti.png, certificate-robocon.pdf, and certificate-volunteer.pdf.
