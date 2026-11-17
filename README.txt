@@ -1,3 +1,4 @@
 DY Chheavty Academic Portfolio
-Upload all files in this folder to the ROOT of your GitHub Pages repository.
-The certificate buttons point to certificate-nisti.png, certificate-robocon.pdf, and certificate-volunteer.pdf.
+Certificates section: NISTI research internship only.
+Upload index.html and the included assets to the root of your GitHub Pages repository.
+Remove certificate-robocon.pdf and certificate-volunteer.pdf from the repository if they were previously uploaded.
